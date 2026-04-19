@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Ritik Singh 👋
 
-<!--
-**ritikrajput02/ritikrajput02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Management student (BBA + MBA)
+📊 Aspiring Data Analyst
+📍 Gurugram, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a detail-oriented management student with a strong interest in data analysis and business insights.
+I enjoy working with data, solving problems, and learning new tools to improve my analytical skills.
+
+---
+
+## 🛠️ Skills
+
+* 📊 MS Excel (Basic Formulas, Sorting & Filtering, Charts)
+* 🐍 Python (Basic – Loops, Functions)
+* 🧠 Analytical & Logical Thinking
+* 📈 Problem-Solving
+* 🗣️ Communication & Presentation
+
+---
+
+
+## 🎯 Goals
+
+* To gain practical experience through internships
+* To improve skills in data analysis and visualization
+* To learn tools like SQL, Power BI, and advanced Excel
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: [rajputritik8020@gmail.com](mailto:rajputritik8020@gmail.com)
+* 🔗 GitHub: https://github.com/ritikrajput02
+
+---
+
+⭐ *Always eager to learn and grow!*
